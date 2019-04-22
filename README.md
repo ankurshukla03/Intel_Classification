@@ -8,6 +8,6 @@ The categories of natural scenes and their corresponding labels in the dataset a
 {'buildings' -> 0, 'forest' -> 1, 'glacier' -> 2, 'mountain' -> 3, 'sea' -> 4, 'street' -> 5 }
 
 ## EVALUATION METRIC
-The Evaluation metric for this competition is accuracy.
+The Evaluation metric for this competition is accuracy. Got 91% accuracy on test dataset.
 
 Checkout the competition [here](https://datahack.analyticsvidhya.com/contest/practice-problem-intel-scene-classification-challe/)
